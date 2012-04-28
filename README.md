@@ -1,6 +1,3 @@
-JBehaveExamples
-=============== 
-
 More Info
 ===============
 http://c.gwt-examples.com/home/testing/jbehave-bdd - More info on my examples here
